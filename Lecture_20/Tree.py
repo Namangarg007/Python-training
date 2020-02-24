@@ -67,6 +67,32 @@ class BST:
 
         return max(left, right) + 1
 
+    def sum(self):
+        return self.__sum(self.root)
+
+    def __sum(self, node):
+        if node is None:
+            return 0
+
+        left = self.__sum(node.left)
+        right = self.__sum(node.right)
+
+        return left + right + node.value
+
+    def mirror(self):
+        self.__mirror(self.root)
+
+    def __mirror(self, node):
+        if node is None:
+            return
+
+        temp = node.left
+        node.left = node.right
+        node.right = temp
+
+        self.__mirror(node.left)
+        self.__mirror(node.right)
+
 
 b = BST()
 
@@ -88,3 +114,8 @@ b.display()
 
 print(b.height())
 
+print(b.sum())
+
+b.mirror()
+
+b.display()
