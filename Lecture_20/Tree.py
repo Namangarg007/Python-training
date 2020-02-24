@@ -84,6 +84,7 @@ b.add(29)
 
 print(b.contains(33))
 
-print(b.display())
+b.display()
 
 print(b.height())
+
