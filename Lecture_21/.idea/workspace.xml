@@ -20,7 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a3ee3eac-46d4-44a1-9ad9-4dcfff163393" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lecture_22/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_22/.idea/Lecture_22.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_22/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_22/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_22/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_22/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_22/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_22/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_22/graph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/avltree.py" beforeDir="false" afterPath="$PROJECT_DIR$/avltree.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +58,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lecture_22" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="avltree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -105,22 +118,30 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1827" height="275" key="GridCell.Tab.0.bottom" timestamp="1582617710277">
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1582781193344">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="275" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1582617710277" />
-    <state width="1827" height="275" key="GridCell.Tab.0.center" timestamp="1582617710276">
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1582781193344" />
+    <state width="1827" height="275" key="GridCell.Tab.0.bottom" timestamp="1582788461662">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="275" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1582617710276" />
-    <state width="1827" height="275" key="GridCell.Tab.0.left" timestamp="1582617710275">
+    <state width="1827" height="275" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1582788461662" />
+    <state width="1827" height="275" key="GridCell.Tab.0.center" timestamp="1582788461661">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="275" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1582617710275" />
-    <state width="1827" height="275" key="GridCell.Tab.0.right" timestamp="1582617710277">
+    <state width="1827" height="275" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1582788461661" />
+    <state width="1827" height="275" key="GridCell.Tab.0.left" timestamp="1582788461661">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state width="1827" height="275" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1582617710277" />
+    <state width="1827" height="275" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1582788461661" />
+    <state width="1827" height="275" key="GridCell.Tab.0.right" timestamp="1582788461662">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1827" height="275" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1582788461662" />
+    <state x="484" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1582782028069">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="484" y="188" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1582782028069" />
     <state x="766" y="431" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582619347146">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
