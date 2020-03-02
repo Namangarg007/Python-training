@@ -113,4 +113,8 @@
 - bartite Graph
 - adjucent Map
 
+### Lecture 24
+
+- Dynamic programming Intro
+
 
