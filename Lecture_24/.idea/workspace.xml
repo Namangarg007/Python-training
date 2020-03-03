@@ -20,25 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0acdc2c5-c70d-4498-898c-da1b4033b08b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Lecture_23/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture_23/.idea/Lecture_23.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture_23/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture_23/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture_23/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture_23/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Lecture_24.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Dynamic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rat_maze.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/knapsack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_25/.idea/Lecture_25.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_25/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_25/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_25/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lecture_25/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +52,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lecture_25" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.knapsack">
@@ -185,31 +172,32 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="799" y="385" width="424" height="482" key="FileChooserDialogImpl" timestamp="1583146580839">
+    <state x="799" y="385" width="424" height="482" key="FileChooserDialogImpl" timestamp="1583212249955">
       <screen x="70" y="34" width="1850" height="1046" />
     </state>
-    <state x="799" y="385" width="424" height="482" key="FileChooserDialogImpl/70.34.1850.1046@70.34.1850.1046" timestamp="1583146580839" />
-    <state width="1827" height="276" key="GridCell.Tab.0.bottom" timestamp="1583135656056">
+    <state x="799" y="385" width="424" height="482" key="FileChooserDialogImpl/70.34.1850.1046@70.34.1850.1046" timestamp="1583212249955" />
+    <state width="1827" height="276" key="GridCell.Tab.0.bottom" timestamp="1583138286175">
       <screen x="70" y="34" width="1850" height="1046" />
     </state>
-    <state width="1827" height="276" key="GridCell.Tab.0.bottom/70.34.1850.1046@70.34.1850.1046" timestamp="1583135656056" />
-    <state width="1827" height="276" key="GridCell.Tab.0.center" timestamp="1583135656055">
+    <state width="1827" height="276" key="GridCell.Tab.0.bottom/70.34.1850.1046@70.34.1850.1046" timestamp="1583138286175" />
+    <state width="1827" height="276" key="GridCell.Tab.0.center" timestamp="1583138286174">
       <screen x="70" y="34" width="1850" height="1046" />
     </state>
-    <state width="1827" height="276" key="GridCell.Tab.0.center/70.34.1850.1046@70.34.1850.1046" timestamp="1583135656055" />
-    <state width="1827" height="276" key="GridCell.Tab.0.left" timestamp="1583135656055">
+    <state width="1827" height="276" key="GridCell.Tab.0.center/70.34.1850.1046@70.34.1850.1046" timestamp="1583138286174" />
+    <state width="1827" height="276" key="GridCell.Tab.0.left" timestamp="1583138286174">
       <screen x="70" y="34" width="1850" height="1046" />
     </state>
-    <state width="1827" height="276" key="GridCell.Tab.0.left/70.34.1850.1046@70.34.1850.1046" timestamp="1583135656055" />
-    <state width="1827" height="276" key="GridCell.Tab.0.right" timestamp="1583135656055">
+    <state width="1827" height="276" key="GridCell.Tab.0.left/70.34.1850.1046@70.34.1850.1046" timestamp="1583138286174" />
+    <state width="1827" height="276" key="GridCell.Tab.0.right" timestamp="1583138286175">
       <screen x="70" y="34" width="1850" height="1046" />
     </state>
-    <state width="1827" height="276" key="GridCell.Tab.0.right/70.34.1850.1046@70.34.1850.1046" timestamp="1583135656055" />
+    <state width="1827" height="276" key="GridCell.Tab.0.right/70.34.1850.1046@70.34.1850.1046" timestamp="1583138286175" />
     <state x="484" y="192" key="SettingsEditor" timestamp="1583128775342">
       <screen x="70" y="34" width="1850" height="1046" />
     </state>
