@@ -10,7 +10,7 @@ while True:
 
         x, y, w, h = 50, 60, 200, 300
 
-        cut = image[y:y + h, x:x+   w]  # selected an area of 300 X 300 from 250, 300
+        cut = image[y:y + h, x:x + w]  # selected an area of 300 X 300 from 250, 300
 
         cut[:, :, :2] = 0  # changing the color values of first two layers of cut as cv2 works on BGR the B&G layer
         # values will turn to 0 and only R values remain
