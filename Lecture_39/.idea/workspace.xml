@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76ac539c-37c1-4940-ba54-ef244296ed84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Abc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture_34/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_34/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture_38/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_38/Untitled.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Abc.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,5 +45,11 @@
       <updated>1585826652206</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="161" y="238" width="732" height="635" key="#Inspections" timestamp="1585929155670">
+      <screen x="70" y="34" width="1850" height="1046" />
+    </state>
+    <state x="161" y="238" width="732" height="635" key="#Inspections/70.34.1850.1046@70.34.1850.1046" timestamp="1585929155670" />
   </component>
 </project>
