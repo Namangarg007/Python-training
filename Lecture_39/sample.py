@@ -15,7 +15,7 @@ def home():
 
 @app.route("/submit/", methods=["post"])
 def submit():
-    message = request.form["messagecd"]
+    message = request.form["message"]
     x_data = vect.transform([message]).todense()
     y_data = nb.predict(x_data)
     print(y_data)

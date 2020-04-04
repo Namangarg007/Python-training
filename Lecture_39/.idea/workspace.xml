@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76ac539c-37c1-4940-ba54-ef244296ed84" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Lecture_38/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture_38/Untitled.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Abc.py" beforeDir="false" />
-    </list>
+    <list default="true" id="76ac539c-37c1-4940-ba54-ef244296ed84" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +15,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Zz0XD7YyNS41RINKgjbBheQRp4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
